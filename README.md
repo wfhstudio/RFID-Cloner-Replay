@@ -1,1 +1,6 @@
 # RFID-Cloner-Replay
+
+RDM6300 : TX D6, RX D8
+LED : D5
+RF Coil : D1
+OLED : SDA D4, SCL D3
