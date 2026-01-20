@@ -16,5 +16,5 @@ Bluetooth HC-06 (must use HC-06 to work), HC-05 is not compatible
 
 Note:
 1. When uploading ESP8226 you need to take off Bluetooth HC-06 avoiding conflict
-2. When you want to emulate/Replay the ID you need to move the RF Coil that attached to RDM6300 to PIN D1 and press Replay the put the coil on RFID rader
+2. When you want to Emulate/Replay the ID you need to move the RF Coil that attached to RDM6300 to PIN D1 and press Replay the put the coil on RFID rader
 
